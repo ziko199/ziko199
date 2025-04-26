@@ -3,7 +3,8 @@
 I'm a passionate Software Engineer specializing in Java and Spring Boot development.
 I love building scalable backend systems, clean architectures, and continuously improving my craft. 🚀
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
+
 Languages: Java, JavaScript, TypeScript
 
 Frameworks: Spring Framework, Hibernate
